@@ -1,0 +1,2 @@
+# AntigravityUnlimitedQuota
+稳定好用的Antigravity无限续杯工具，支持Antigravity 2.0全系列应用，提供无限额度让你的每一次对话都不再受限。
